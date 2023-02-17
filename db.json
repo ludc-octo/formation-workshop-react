@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Amazing article",
+      "content": "Created with <3 for front-end developers who need a quick back-end for prototyping and mocking."
+    },
+    {
+      "id": "360fc80c-3dc2-47b9-ac81-ed1911832cd9",
+      "title": "Hey",
+      "content": "To get started with the installation of the JSON server, all we need to do is to open the Terminal of our system and type the following command."
+    }
+  ]
+}
