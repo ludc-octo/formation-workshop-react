@@ -1,11 +1,17 @@
 .layout {
   padding: 2rem;
   max-width: 48rem;
-  margin: auto;
+  margin: auto auto 2rem auto;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (min-width: 900px) {
   .layout {
     padding: 2rem 4rem;
   }
+}
+
+h1 {
+  text-align: center;
 }
